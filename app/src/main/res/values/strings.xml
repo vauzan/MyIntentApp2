@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">data satu</string>
+    <string name="move_with_data">data dua</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_moveactivity">setelah di tekan pindah ke MoveActivity</string>
+</resources>
